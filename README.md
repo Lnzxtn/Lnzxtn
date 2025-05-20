@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey there, I'm Lance Christian!
 
-<!--
-**Lnzxtn/Lnzxtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Science in Information Technology (BSIT) student at  
+**Computer Communication Development Institute**  
+📍 Based in **Sorsogon, Philippines**  
+🌐 Aspiring **Web Developer** passionate about building modern, responsive websites  
+🚀 Eager to learn and grow in the world of web technologies  
+🛠️ Currently working with **HTML**, **CSS**, **JavaScript**, and **PHP**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me:
+
+- 🧠 Dedicated to mastering both **front-end** and **back-end** development  
+- 💻 Love transforming ideas into functional and user-friendly websites  
+- 🌱 Exploring frameworks and tools like **Bootstrap**, **Laravel**, and more  
+- 🤝 Open to team projects, collaborations, and real-world experience  
+
+---
+
+### 🔗 Let's Connect:
+
+- 💼 [LinkedIn](#) *(insert your link here)*  
+- 🐙 Check out my GitHub repos — I’d love your feedback and support! ⭐  
+
+---
+
+_Thanks for visiting my profile! Follow my journey as I grow into a professional web developer._
