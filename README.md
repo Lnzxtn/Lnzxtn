@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lance Christian
+# 👋 Hi, I'm Lance Christian Carillo
 
 🎓 BSIT (Bachelor of Science in Information Technology) student  
 🏫 Studying at Computer Communication Development Institute  
