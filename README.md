@@ -32,14 +32,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lnzxtn/Lnzxtn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lnzxtn/Lnzxtn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lnzxtn/Lnzxtn/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left">Contact Me</h2>
 
 ###
@@ -55,14 +47,12 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwMGc4NjkxNWI5d3NsZHNhdXNtMm9wc2ZvOGxoM2k2emU0bW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif"  />
-</div>
+<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwMGc4NjkxNWI5d3NsZHNhdXNtMm9wc2ZvOGxoM2k2emU0bW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lnzxtn.Lnzxtn&"  />
-</div>
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Lnzxtn.Lnzxtn&left_color=black&right_color=darkred"  />
 
 ###
