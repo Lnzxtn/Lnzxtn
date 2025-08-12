@@ -55,7 +55,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwMGc4NjkxNWI5d3NsZHNhdXNtMm9wc2ZvOGxoM2k2emU0bW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif"  />
 </div>
 
