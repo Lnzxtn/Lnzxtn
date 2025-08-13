@@ -55,19 +55,19 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdwMGc4NjkxNWI5d3NsZHNhdXNtMm9wc2ZvOGxoM2k2emU0bW9pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Lnzxtn.Lnzxtn&left_color=black&right_color=darkred"  />
+<img align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZyd241ZXBqc3hzMzhveHF4emtybTQ2YzhuNmtkdDdybnBvamFpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VPpkvgTIJ817dfQOXI/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lnzxtn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lnzxtn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lnzxtn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lnzxtn.Lnzxtn&left_color=black&right_color=darkred"  />
 </div>
 
 ###
