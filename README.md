@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 I am a graduating BSIT (Bachelor of Science in Information Technology) student, currently studying at Computer Communication Development Institute.<br><br>🚀 I am resourceful and adaptable, using new technologies to complete tasks effectively and solve problems efficiently.<br><br>💻 I have experience with HTML, CSS, JavaScript, PHP, and MySQL. Additionally, I have skills in basic computer troubleshooting and maintenance, as well as networking fundamentals.<br><br>🛠️ Currently working on my capstone project: AI-Powered Intruder Detection System</p>
+<p align="left">🎓 I am a graduating BSIT (Bachelor of Science in Information Technology) student, currently studying at Computer Communication Development Institute.<br><br>🚀 I am resourceful and adaptable, using new technologies to complete tasks effectively and solve problems efficiently.<br><br>💻 I have experience with HTML, CSS, JavaScript, PHP, Bootstrap, and MySQL. Additionally, I have skills in basic computer troubleshooting and maintenance, as well as networking fundamentals.<br><br>🛠️ Currently working on my capstone project: AI-Powered Intruder Detection System</p>
 
 ###
 
